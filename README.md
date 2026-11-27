@@ -27,7 +27,7 @@
 | **Lights Out** | A horror maze where the creature only moves when your flashlight isn't on it |
 | **Void Hunter 3D** | Waves of enemies on a moon base, with three guns |
 | **Beat Dash** | A one-button rhythm game in the browser |
-| **Infinideck** | A card game that keeps growing |
+| **[Infinideck](https://github.com/Silverrshard/Infinideck)** | A card game that keeps growing |
 
 ## Tools
 
